@@ -1,3 +1,4 @@
+// path berfungsi untuk mendapatkan informasi semengenai sebuah file atau folder
 import path from 'path';
 
 const file = '/Users/mathius/code/index.js';
