@@ -19,6 +19,8 @@ const server = http.createServer((request, response) => {
 		console.log(request.method);
 		// Menampilkan url
 		console.log(request.url);
+		// Menampilkan headers
+		console.log(request.headers);
 
 		if(request.method === 'POST') {
 			// Menerima Request Body
