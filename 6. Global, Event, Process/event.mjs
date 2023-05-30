@@ -29,7 +29,7 @@ import {EventEmitter} from 'events';
 
 const emiter = new EventEmitter();
 
-// Untuk menentukan berapa kali sih eventnya boleh di listen (default nya 111)
+// Untuk menentukan berapa kali sih eventnya boleh di listen (default nya 10)
 // Kalau tidak kita set 11, maka akan error, karena event test akan di jalankan 11 kali, dan itu sudah melebihni jumlah maksimal maxListener dari Eventnya (default 10)
 emiter.setMaxListeners(11);
 

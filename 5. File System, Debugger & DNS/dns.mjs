@@ -6,9 +6,8 @@
 	mengenai DNS seperti IP address.
 
 	Untuk menggunakan module dns ada 3 cara:
-	1. Menggunakan Synchronous Process
-	2. Menggunakan Asyncchronos Process (Callback)
-	3. Menggunakan Asyncchronos Process (Promise)
+	1. Menggunakan Asyncchronos Process (Callback)
+	2. Menggunakan Asyncchronos Process (Promise)
 */
 
 // Menggunaan Asynchronouse Callback

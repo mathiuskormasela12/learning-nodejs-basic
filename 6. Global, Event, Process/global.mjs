@@ -3,7 +3,7 @@
 
 	Dalam Node Js ada yang namanya global
 	module atau global library dimana module ini
-	kita digunakan kita tidak perlu melakukan
+	ketika digunakan kita tidak perlu melakukan
 	importing module nya.
 
 	Contoh Global Module :
